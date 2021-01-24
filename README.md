@@ -1,0 +1,1 @@
+This project uses the foundational skills learned with HTML and CSS to recreate the Google homepage.
